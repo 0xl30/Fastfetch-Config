@@ -1,17 +1,18 @@
-# 🚀 Fastfetch
+# 🚀 Fastfetch Configuration
 
 Fastfetch is a modern system information tool that displays system information in a beautiful and customizable way. It's written in C and designed to be fast and efficient.
 
 ![Fastfetch Preview 1](preview1.png)
 ![Fastfetch Preview 2](preview2.png)
 
+
 ## ✨ Features
 
-- ⚡ Fast and lightweight
-- 🎨 Beautiful and customizable output
-- 🖼️ Support for random system images
-- ⚙️ Highly configurable
-- 🌐 Cross-platform support
+- ⚡ Blazing fast system information display
+- 🎨 Fully customizable output with color schemes
+- 🖼️ Dynamic image support (including random images)
+- 📊 Modular display components
+- 📱 Cross-platform compatibility
 
 ## 📦 Installation
 
@@ -22,8 +23,7 @@ sudo pacman -S fastfetch jq
 
 2. Clone the repository:
 ```bash
-cd .config
-git clone https://github.com/yourusername/fastfetch.git
+git clone https://github.com/0xl30/Fastfetch-Config.git
 cd Fastfetch-Config
 mv fastfetch ~/.config/fastfetch
 ```
@@ -46,7 +46,7 @@ This will ensure that Fastfetch displays a random system image each time you ope
 
 ## 🚀 Usage
 
-Simply open your terminal to display system information.
+Fastfetch will automatically display your system information when you open a new terminal session. 
 
 ## 🔧 Configuration
 
@@ -54,7 +54,14 @@ Fastfetch can be configured by editing the configuration file located at `$HOME/
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request Images or Any Improvments.
+We welcome contributions in the following areas:
+
+```text
+  • New image sets (anime/tech/minimalist themes)
+  • Creative config layouts (unique ASCII/color designs)
+  • Performance improvements (faster execution)
+  • Translation files (locale support)
+  • Bug fixes and documentation updates
 
 ## 📄 License
 
